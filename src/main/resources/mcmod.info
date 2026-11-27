@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "scrolllock",
+    "name": "ScrollLock",
+    "description": "Toggleable lock for hotbar scrolling.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/XLuke44-Main/ScrollLock",
+    "updateUrl": "",
+    "authorList": ["XLuke44"],
+    "credits": "",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
+

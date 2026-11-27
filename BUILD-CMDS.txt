@@ -1,0 +1,11 @@
+Debug:
+
+./gradlew clean build --refresh-dependencies --warning-mode all --info
+
+Normal:
+
+./gradlew clean build --warning-mode none
+
+Clean:
+
+./gradlew clean

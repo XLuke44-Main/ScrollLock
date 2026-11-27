@@ -1,0 +1,4 @@
+key.scrolllock.toggle=Toggle ScrollLock
+key.categories.scrolllock=ScrollLock
+message.scrolllock.enabled=ScrollLock Enabled
+message.scrolllock.disabled=ScrollLock Disabled
